@@ -1,6 +1,512 @@
-{
-  "id": 1,
-  "date": "3/4",
-  "message": "Feliz sexta-feira santa!",
-  "body": "A Sexta-feira Santa celebra a Paixão e Morte de Jesus Cristo, relembrando sua crucificação no Calvário, condenação e sacrifício pela humanidade."
-}
+[
+  {  
+      "id":1,"date":"01/01",
+      "repeat":"yearly",
+      "category":"holiday",
+      "tags":["ano novo","celebração"],
+      "emoji":"🎆",
+      "title":"Ano Novo",
+      "message":"Feliz Ano Novo!",
+      "body":"Início de um novo ciclo cheio de esperança e oportunidades."
+  },
+  {   
+      "id":2,"date":"04/01",
+      "repeat":"yearly",
+      "category":"profession",
+      "tags":["braille","inclusão"],
+      "emoji":"👁️",
+      "title":"Dia do Sistema Braille",
+      "message":"Dia do Sistema Braille",
+      "body":"Celebrando a importância do sistema de leitura e escrita para pessoas com deficiência visual."
+  },
+  {   
+      "id":3,"date":"06/01",
+      "repeat":"yearly",
+      "category":"religious",
+      "tags":["reis magos","cristianismo"],
+      "emoji":"⭐",
+      "title":"Dia de Reis",
+      "message":"Feliz Dia de Reis",
+      "body":"Data cristã que relembra a visita dos três reis magos ao menino Jesus."
+  },
+  {  
+      "id":4,
+      "date":"09/01",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["gratidao"],
+      "emoji":"🙏",
+      "title":"Dia da Gratidão",
+      "message":"Dia da Gratidão",
+      "body":"Um convite para refletir e agradecer pelas coisas boas da vida."
+  },
+  {  
+      "id":5,
+      "date":"15/01",
+      "repeat":"yearly",
+      "category":"profession",
+      "tags":["educação","pedagogia"],
+      "emoji":"📚",
+      "title":"Dia do Pedagogo",
+      "message":"Feliz Dia do Pedagogo",
+      "body":"Homenagem aos profissionais que dedicam suas vidas à educação."
+  },
+  {  
+      "id":6,
+      "date":"19/01",
+      "repeat":"yearly",
+      "category":"profession",
+      "tags":["tecnologia","startup"],
+      "emoji":"🚀",
+      "title":"Dia do Empreendedor",
+      "message":"Feliz Dia do Empreendedor",
+      "body":"Celebrando quem transforma ideias em negócios."
+  },
+  {
+      "id":7,"date":"24/01",
+      "repeat":"yearly",
+      "category":"profession",
+      "tags":["aposentadoria"],
+      "emoji":"👴",
+      "title":"Dia do Aposentado",
+      "message":"Dia do Aposentado",
+      "body":"Reconhecimento à contribuição dos aposentados para a sociedade."
+  },
+  {  
+      "id":8,
+      "date":"30/01",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["paz"],
+      "emoji":"🕊️",
+      "title":"Dia da Não Violência",
+      "message":"Dia da Não Violência",
+      "body":"Data que promove a cultura de paz."
+  },
+  
+  {  
+      "id":9,
+      "date":"04/02",
+      "repeat":"yearly",
+      "category":"health",
+      "tags":["cancer","saude"],
+      "emoji":"🩺",
+      "title":"Dia Mundial do Câncer",
+      "message":"Dia Mundial do Câncer",
+      "body":"Data dedicada à conscientização sobre prevenção e tratamento."
+  },
+  {  
+      "id":10,
+      "date":"07/02",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["internet"],
+      "emoji":"🌐",
+      "title":"Dia da Internet Segura",
+      "message":"Internet Segura",
+      "body":"Conscientização sobre uso responsável da internet."
+  },
+  {  
+      "id":11,
+      "date":"11/02",
+      "repeat":"yearly",
+      "category":"profession",
+      "tags":["mulheres","ciencia"],
+      "emoji":"🔬",
+      "title":"Mulheres na Ciência",
+      "message":"Dia Internacional das Mulheres na Ciência",
+      "body":"Celebrando mulheres que contribuem para o avanço científico."
+  },
+  {  
+      "id":12,
+      "date":"14/02",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["amor"],
+      "emoji":"💘",
+      "title":"Dia de São Valentim",
+      "message":"Dia de São Valentim",
+      "body":"Celebrado em muitos países como o dia do amor."
+  },
+  
+  {  
+      "id":13,
+      "date":"08/03",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["mulher"],
+      "emoji":"🌸",
+      "title":"Dia Internacional da Mulher",
+      "message":"Feliz Dia da Mulher!",
+      "body":"Celebrando as conquistas sociais e políticas das mulheres."
+  },
+  {  
+      "id":14,
+      "date":"15/03",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["consumidor"],
+      "emoji":"🛍️",
+      "title":"Dia do Consumidor",
+      "message":"Feliz Dia do Consumidor",
+      "body":"Reconhecimento dos direitos dos consumidores."
+  },
+  {  
+      "id":15,
+      "date":"21/03",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["poesia"],
+      "emoji":"📜",
+      "title":"Dia da Poesia",
+      "message":"Dia da Poesia",
+      "body":"Celebrando a arte de expressar sentimentos através das palavras."
+  },
+  {  
+      "id":16,
+      "date":"22/03",
+      "repeat":"yearly",
+      "category":"environment",
+      "tags":["agua"],
+      "emoji":"💧",
+      "title":"Dia Mundial da Água",
+      "message":"Dia Mundial da Água",
+      "body":"Reflexão sobre a importância da preservação da água."
+  },
+  
+  {  
+      "id":17,
+      "date":"01/04",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["humor"],
+      "emoji":"🤡",
+      "title":"Dia da Mentira",
+      "message":"Dia da Mentira",
+      "body":"Data marcada por brincadeiras e histórias curiosas."
+  },
+  {  
+      "id":18,
+      "date":"07/04",
+      "repeat":"yearly",
+      "category":"health",
+      "tags":["saude"],
+      "emoji":"🩺",
+      "title":"Dia Mundial da Saúde",
+      "message":"Dia Mundial da Saúde",
+      "body":"Promove a conscientização sobre cuidados com a saúde."
+  },
+  {  
+      "id":19,
+      "date":"18/04",
+      "repeat":"yearly",
+      "category":"culture",
+      "tags":["livro"],
+      "emoji":"📖",
+      "title":"Dia do Livro Infantil",
+      "message":"Dia do Livro Infantil",
+      "body":"Incentivo à leitura entre crianças."
+  },
+  {  
+      "id":20,
+      "date":"21/04",
+      "repeat":"yearly",
+      "category":"holiday",
+      "tags":["tiradentes"],
+      "emoji":"🇧🇷",
+      "title":"Tiradentes",
+      "message":"Feriado de Tiradentes",
+      "body":"Homenagem ao mártir da Inconfidência Mineira."
+  },
+  
+  {  "id":21,
+      "date":"01/05",
+      "repeat":"yearly",
+      "category":"holiday",
+      "tags":["trabalho"],
+      "emoji":"💼",
+      "title":"Dia do Trabalhador",
+      "message":"Feliz Dia do Trabalhador!",
+      "body":"Celebrando o valor do trabalho."
+  },
+  {  
+      "id":22,
+      "date":"12/05",
+      "repeat":"yearly",
+      "category":"profession",
+      "tags":["enfermagem"],
+      "emoji":"💉",
+      "title":"Dia do Enfermeiro",
+      "message":"Feliz Dia do Enfermeiro",
+      "body":"Reconhecimento aos profissionais da enfermagem."
+  },
+  {  
+      "id":23,
+      "date":"15/05",
+      "repeat":"yearly",
+      "category":"family",
+      "tags":["familia"],
+      "emoji":"👨‍👩‍👧",
+      "title":"Dia da Família",
+      "message":"Feliz Dia da Família",
+      "body":"Celebração da importância da família."
+  },
+  {  
+      "id":24,
+      "date":"25/05",
+      "repeat":"yearly",
+      "category":"tech",
+      "tags":["programador"],
+      "emoji":"💻",
+      "title":"Dia do Programador",
+      "message":"Feliz Dia do Programador",
+      "body":"Celebrando quem cria software e tecnologia."
+  },
+  
+  {  
+      "id":25,
+      "date":"05/06",
+      "repeat":"yearly",
+      "category":"environment",
+      "tags":["meio ambiente"],
+      "emoji":"🌱",
+      "title":"Dia do Meio Ambiente",
+      "message":"Dia do Meio Ambiente",
+      "body":"Reflexão sobre preservação ambiental."
+  },
+  {  
+      "id":26,
+      "date":"12/06",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["amor"],
+      "emoji":"❤️",
+      "title":"Dia dos Namorados",
+      "message":"Feliz Dia dos Namorados",
+      "body":"Celebrando o amor e o companheirismo."
+  },
+  {  
+      "id":27,
+      "date":"21/06",
+      "repeat":"yearly",
+      "category":"culture",
+      "tags":["musica"],
+      "emoji":"🎵",
+      "title":"Dia da Música",
+      "message":"Dia da Música",
+      "body":"Celebração universal da música."
+  },
+  
+  {  "id":28,
+      "date":"08/07",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["amigo"],
+      "emoji":"🤝",
+      "title":"Dia da Amizade",
+      "message":"Feliz Dia da Amizade",
+      "body":"Celebrando os laços de amizade."
+  },
+  {  
+      "id":29,
+      "date":"20/07",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["amizade"],
+      "emoji":"👫",
+      "title":"Dia do Amigo",
+      "message":"Feliz Dia do Amigo",
+      "body":"Um dia para valorizar as amizades."
+  },
+  
+  {  
+      "id":30,
+      "date":"11/08",
+      "repeat":"yearly",
+      "category":"profession",
+      "tags":["advogado"],
+      "emoji":"⚖️",
+      "title":"Dia do Advogado",
+      "message":"Feliz Dia do Advogado",
+      "body":"Celebrando os profissionais do direito."
+  },
+  {  
+      "id":31,
+      "date":"12/08",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["juventude"],
+      "emoji":"🧑",
+      "title":"Dia da Juventude",
+      "message":"Dia da Juventude",
+      "body":"Reconhecimento da importância dos jovens."
+  },
+  {  
+      "id":32,
+      "date":"15/08",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["solteiros"],
+      "emoji":"😎",
+      "title":"Dia dos Solteiros",
+      "message":"Feliz Dia dos Solteiros",
+      "body":"Celebrando a independência e liberdade."
+  },
+  
+  {  
+      "id":33,
+      "date":"07/09",
+      "repeat":"yearly",
+      "category":"holiday",
+      "tags":["independencia"],
+      "emoji":"🇧🇷",
+      "title":"Independência do Brasil",
+      "message":"Feliz Dia da Independência",
+      "body":"Data histórica da independência brasileira."
+  },
+  {  
+      "id":34,
+      "date":"09/09",
+      "repeat":"yearly",
+      "category":"profession",
+      "tags":["administrador"],
+      "emoji":"📊",
+      "title":"Dia do Administrador",
+      "message":"Feliz Dia do Administrador",
+      "body":"Celebrando os profissionais da gestão."
+  },
+  {  
+      "id":35,
+      "date":"21/09",
+      "repeat":"yearly",
+      "category":"environment",
+      "tags":["arvore"],
+      "emoji":"🌳",
+      "title":"Dia da Árvore",
+      "message":"Dia da Árvore",
+      "body":"Incentivo à preservação das árvores."
+  },
+  
+  {  
+      "id":36,
+      "date":"01/10",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["idosos"],
+      "emoji":"👵",
+      "title":"Dia do Idoso",
+      "message":"Dia do Idoso",
+      "body":"Reconhecimento à sabedoria da terceira idade."
+  },
+  {  
+      "id":37,
+      "date":"12/10",
+      "repeat":"yearly",
+      "category":"family",
+      "tags":["crianças"],
+      "emoji":"🧸",
+      "title":"Dia das Crianças",
+      "message":"Feliz Dia das Crianças",
+      "body":"Celebrando a alegria das crianças."
+  },
+  {  "id":38,
+      "date":"13/10",
+      "repeat":"yearly",
+      "category":"profession",
+      "tags":["fisioterapia"],
+      "emoji":"🩺",
+      "title":"Dia do Fisioterapeuta",
+      "message":"Feliz Dia do Fisioterapeuta",
+      "body":"Reconhecimento aos profissionais da reabilitação."
+  },
+  {  
+      "id":39,
+      "date":"15/10",
+      "repeat":"yearly",
+      "category":"profession",
+      "tags":["professor"],
+      "emoji":"📚",
+      "title":"Dia dos Professores",
+      "message":"Feliz Dia dos Professores",
+      "body":"Homenagem aos educadores."
+  },
+  {  
+      "id":40,
+      "date":"19/10",
+      "repeat":"yearly",
+      "category":"profession",
+      "tags":["ti","tecnologia"],
+      "emoji":"💻",
+      "title":"Dia do Profissional de TI",
+      "message":"Feliz Dia do Profissional de TI",
+      "body":"Celebrando quem constrói o mundo digital."
+  },
+  
+  {  
+      "id":41,
+      "date":"02/11",
+      "repeat":"yearly",
+      "category":"holiday",
+      "tags":["finados"],
+      "emoji":"🕯️",
+      "title":"Finados",
+      "message":"Dia de Finados",
+      "body":"Momento de lembrar entes queridos."
+  },
+  {  
+      "id":42,
+      "date":"15/11",
+      "repeat":"yearly",
+      "category":"holiday",
+      "tags":["republica"],
+      "emoji":"🇧🇷",
+      "title":"Proclamação da República",
+      "message":"Proclamação da República",
+      "body":"Mudança do regime monárquico para república."
+  },
+  {  
+      "id":43,
+      "date":"20/11",
+      "repeat":"yearly",
+      "category":"social",
+      "tags":["consciência negra"],
+      "emoji":"✊🏿",
+      "title":"Consciência Negra",
+      "message":"Dia da Consciência Negra",
+      "body":"Reflexão sobre igualdade racial."
+  },
+  
+  {  
+      "id":44,
+      "date":"24/12",
+      "repeat":"yearly",
+      "category":"holiday",
+      "tags":["natal"],
+      "emoji":"🎄",
+      "title":"Véspera de Natal",
+      "message":"Feliz Véspera de Natal",
+      "body":"Momento de união e preparação para o Natal."
+  },
+  {  
+      "id":45,
+      "date":"25/12",
+      "repeat":"yearly",
+      "category":"holiday",
+      "tags":["natal"],
+      "emoji":"🎄",
+      "title":"Natal",
+      "message":"Feliz Natal!",
+      "body":"Celebração do nascimento de Jesus e união das famílias."
+  },
+  {  
+      "id":46,
+      "date":"31/12",
+      "repeat":"yearly",
+      "category":"holiday",
+      "tags":["ano novo"],
+      "emoji":"🎆",
+      "title":"Réveillon",
+      "message":"Feliz Ano Novo que está chegando!",
+      "body":"Momento de celebrar o encerramento do ano."
+  }
+]
